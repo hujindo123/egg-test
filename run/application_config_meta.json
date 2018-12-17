@@ -1,0 +1,279 @@
+{
+  "sequelize": {
+    "dialect": "F:\\Code\\git\\egg\\config\\config.default.js",
+    "host": "F:\\Code\\git\\egg\\config\\config.default.js",
+    "port": "F:\\Code\\git\\egg\\config\\config.default.js",
+    "user": "F:\\Code\\git\\egg\\config\\config.default.js",
+    "password": "F:\\Code\\git\\egg\\config\\config.default.js",
+    "database": "F:\\Code\\git\\egg\\config\\config.default.js",
+    "username": "F:\\Code\\git\\egg\\node_modules\\_egg-sequelize@4.2.0@egg-sequelize\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "F:\\Code\\git\\egg\\config\\config.default.js",
+      "useSession": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "ignoreJSON": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "cookieName": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "sessionName": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "headerName": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "bodyName": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "queryName": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "F:\\Code\\git\\egg\\config\\config.default.js",
+    "protocolWhiteList": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "value": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.local.js",
+      "maxAge": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "value": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "value": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "policy": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+    }
+  },
+  "keys": "F:\\Code\\git\\egg\\config\\config.default.js",
+  "middleware": "F:\\Code\\git\\egg\\config\\config.default.js",
+  "token": {
+    "keys": "F:\\Code\\git\\egg\\config\\config.default.js",
+    "maxAge": "F:\\Code\\git\\egg\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "F:\\Code\\git\\egg\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "F:\\Code\\git\\egg\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\Code\\git\\egg\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "F:\\Code\\git\\egg\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\Code\\git\\egg\\node_modules\\_egg-security@2.4.1@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\Code\\git\\egg\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\Code\\git\\egg\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\Code\\git\\egg\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\Code\\git\\egg\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\Code\\git\\egg\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\Code\\git\\egg\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\Code\\git\\egg\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\Code\\git\\egg\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\Code\\git\\egg\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\Code\\git\\egg\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\Code\\git\\egg\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\Code\\git\\egg\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\Code\\git\\egg\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "F:\\Code\\git\\egg\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\Code\\git\\egg\\node_modules\\_egg-schedule@3.4.0@egg-schedule\\config\\config.default.js",
+      "file": "F:\\Code\\git\\egg\\node_modules\\_egg-schedule@3.4.0@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "autoFields": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "fields": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "files": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\Code\\git\\egg\\node_modules\\_egg-multipart@2.3.0@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "F:\\Code\\git\\egg\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\Code\\git\\egg\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js",
+    "fastReady": "F:\\Code\\git\\egg\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\Code\\git\\egg\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\Code\\git\\egg\\node_modules\\_egg-development@2.4.1@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\Code\\git\\egg\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\Code\\git\\egg\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\Code\\git\\egg\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\Code\\git\\egg\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\Code\\git\\egg\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\Code\\git\\egg\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\Code\\git\\egg\\node_modules\\_egg-logrotator@3.0.4@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\Code\\git\\egg\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "dir": "F:\\Code\\git\\egg\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "dynamic": "F:\\Code\\git\\egg\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "preload": "F:\\Code\\git\\egg\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "buffer": "F:\\Code\\git\\egg\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\Code\\git\\egg\\node_modules\\_egg-static@2.1.1@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\Code\\git\\egg\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "cache": "F:\\Code\\git\\egg\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\Code\\git\\egg\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\Code\\git\\egg\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js",
+    "mapping": "F:\\Code\\git\\egg\\node_modules\\_egg-view@2.1.0@egg-view\\config\\config.default.js"
+  },
+  "userrole": {
+    "failureHandler": "F:\\Code\\git\\egg\\node_modules\\_egg-userrole@2.0.0@egg-userrole\\config\\config.default.js"
+  },
+  "cors": "F:\\Code\\git\\egg\\node_modules\\_egg-cors@2.1.1@egg-cors\\config\\config.default.js",
+  "env": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "name": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "proxy": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "ipHeaders": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "hostHeaders": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "version": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "description": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "main": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "scripts": {
+      "test": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "dev": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+    },
+    "author": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "license": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "egg-sequelize": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "egg-userrole": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "formidable": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "jsonwebtoken": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "mysql2": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "egg-cors": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "mysql2": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "sequelize-cli": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "HOME": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "rundir": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "notFound": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "sitefile": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "middlewares": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "httpClient": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "encoding": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "formLimit": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "jsonLimit": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "strict": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "depth": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "parameterLimit": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "encoding": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "env": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "level": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "consoleLevel": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "outputJSON": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "buffer": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "appLogName": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "coreLogName": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "agentLogName": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "errorLogName": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "logging": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "serverTimeout": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "port": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+      "hostname": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js",
+    "responseTimeout": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\Code\\git\\egg\\node_modules\\_egg@2.14.0@egg\\config\\config.default.js"
+}
